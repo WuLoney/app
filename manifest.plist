@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/WuLoney/app/blob/096d0856ae67b5ab1f69e0b8519d544a49ae8ae1/gczt_ios.ipa</string>
+					<string>https://raw.githubusercontent.com/WuLoney/app/blob/main/gczt_ios.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
