@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/WuLoney/app/blob/096d0856ae67b5ab1f69e0b8519d544a49ae8ae1/180.jpg</string>
+					<string>https://raw.githubusercontent.com/WuLoney/app/main/57x57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/WuLoney/app/blob/9b8dd59b10b94c5e2f1c4219f8ad94a9ae1095d2/512x512.jpg</string>
+					<string>https://raw.githubusercontent.com/WuLoney/app/main/512x512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
